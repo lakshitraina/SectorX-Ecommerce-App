@@ -1,25 +1,71 @@
-# SectorX Ecommerce App
+# 🛒 SectorX Ecommerce App
 
-SectorX is an innovative Android app designed to provide users with seamless access to web-based content, packaged in a user-friendly interface. The app integrates a WebView to render a fully functional website with media playback, making it easy for users to browse online content directly from their mobile devices.
+> **Shop Smart. Browse Smoothly. Experience Seamless Web Commerce.** 🚀  
+> SectorX is an Android application that delivers a complete web-based ecommerce experience inside a fast and user-friendly mobile interface.
 
-## Features
-- **WebView**: Integrated web-based experience to browse the website inside the app.
-- **Smooth Media Playback**: Supports seamless video and media content display.
-- **Progress Bar**: Displays loading progress while the page is being fetched.
-- **Splash Screen**: Displays a splash screen on app launch before transitioning to the WebView.
-- **User-Friendly Design**: Optimized layout for a clean and intuitive user experience.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/lakshitraina/SectorX-Ecommerce-App)
+[![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)]()
+[![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)]()
 
-## Getting Started
+---
+
+## 📱 Project Overview
+
+The **SectorX Ecommerce App** is designed to provide users with seamless access to an ecommerce website through a mobile-friendly interface.  
+It integrates a **WebView**, smooth media playback, and optimized UI elements to ensure a smooth browsing experience.
+
+---
+
+## ✨ Key Features
+
+### 🌐 WebView Integration
+- Browse the ecommerce website directly inside the app.
+- Smooth rendering and fast navigation.
+
+### 🎬 Media Playback Support
+- Seamless video and media content display.
+- Optimized playback experience inside WebView.
+
+### ⏳ Loading Progress Indicator
+- Progress bar shows page loading status.
+- Improves user experience and feedback.
+
+### 🚀 Splash Screen
+- Clean startup screen.
+- Smooth transition into the main application.
+
+### 🎨 User-Friendly UI
+- Minimal and clean layout.
+- Optimized for smooth navigation and readability.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Java  
+- **Platform:** Android  
+- **IDE:** Android Studio  
+- **Components Used:**
+  - WebView
+  - ProgressBar
+  - Splash Screen
+  - Android Layouts
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
-To get started with the app development, ensure that you have the following installed:
+Make sure you have:
 
-- **Android Studio**: Download and install from [here](https://developer.android.com/studio).
-- **Java Development Kit (JDK)**: Download and install from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+- Android Studio  
+- Java Development Kit (JDK)
 
-### Steps to Run
+---
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/lakshitraina/SectorX-Ecommerce-App.git
+### Installation Steps
+
+1. Clone the repository:
+```bash
+git clone https://github.com/lakshitraina/SectorX-Ecommerce-App.git
